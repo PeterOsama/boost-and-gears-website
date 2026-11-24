@@ -2,6 +2,8 @@
 
 A static website in English and Arabic (with a language switch) explaining turbochargers, superchargers, intercoolers, gearboxes, hybrids and carmaker technologies.
 
+Live site: https://peterosama.github.io/boost-and-gears-website/
+
 It needs no server code, database or build step. Any static web host can serve it.
 
 ## Files
